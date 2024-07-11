@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-11T05:54:39 EDT" name="Command line suite" finished-at="2024-07-11T05:54:48 EDT" duration-ms="9134">
+    <groups>
+    </groups>
+    <test started-at="2024-07-11T05:54:39 EDT" name="Command line test" finished-at="2024-07-11T05:54:48 EDT" duration-ms="9134">
+      <class name="SecondTest">
+        <test-method signature="LoginTest()[pri:0, instance:SecondTest@4fcd19b3]" started-at="2024-07-11T05:54:45 EDT" name="LoginTest" finished-at="2024-07-11T05:54:48 EDT" duration-ms="3255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+      </class> <!-- SecondTest -->
+      <class name="FirstTest">
+        <test-method signature="testLogin()[pri:0, instance:FirstTest@2f0a87b3]" started-at="2024-07-11T05:54:39 EDT" name="testLogin" finished-at="2024-07-11T05:54:45 EDT" duration-ms="5850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+      </class> <!-- FirstTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
