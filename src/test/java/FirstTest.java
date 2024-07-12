@@ -66,7 +66,7 @@ public class FirstTest {
         // Launch the browser and navigate
         driver.get("https://www.saucedemo.com/");
 
-        // Find and fill the username field
+        // Find and fill the wrong username into the field
         WebElement username = driver.findElement(By.id("user-name"));
         username.sendKeys("TestWrongUsername");
 
